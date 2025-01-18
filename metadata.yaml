@@ -1,0 +1,28 @@
+_repo: Kulku-ukon-kertomuksia-kansan-elamasta_75080
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reijonen, Juho Heikki
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '5712'
+    url: http://www.gutenberg.org/2009/agents/5712
+    wikipedia: https://fi.wikipedia.org/wiki/Juho_Reijonen
+description: ''
+gutenberg_issued: '2025-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75080'
+language: fi
+pgterms:marc905: 20241230124859reijonen
+pgterms:marc906: '1905'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: »Kulku-ukon» kertomuksia kansan elämästä
+url: http://www.gutenberg.org/ebooks/75080
