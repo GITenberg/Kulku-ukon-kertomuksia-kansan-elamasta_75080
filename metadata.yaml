@@ -1,5 +1,8 @@
 _repo: Kulku-ukon-kertomuksia-kansan-elamasta_75080
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reijonen, Juho Heikki
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5712
     wikipedia: https://fi.wikipedia.org/wiki/Juho_Reijonen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75080#Kulku-ukon-kertomuksia-kansan-elamasta
 gutenberg_issued: '2025-01-10'
 gutenberg_type: Text
 identifiers:
